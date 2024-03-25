@@ -1,9 +1,12 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![العفتان ص](https://github.com/Abdullah-Alaftan/Abdullah-Alaftan/assets/158807291/339f6a63-f8d8-41d0-847e-f439415d05a8)
+ <source media="(prefers-color-scheme: dark)" srcset="![my pic](https://github.com/Abdullah-Alaftan/Abdullah-Alaftan/assets/158807291/c09b582a-c334-45e6-8f41-5d067234192f)
+
 G">
- <source media="(prefers-color-scheme: light)" srcset="![العفتان ص](https://github.com/Abdullah-Alaftan/Abdullah-Alaftan/assets/158807291/3e1d9b5f-25aa-4d2c-90d5-8db957b792c3)
+ <source media="(prefers-color-scheme: light)" srcset="![my pic](https://github.com/Abdullah-Alaftan/Abdullah-Alaftan/assets/158807291/5c2fdbe9-1f3d-466b-b1bf-c9452d358f61)
+
 ">
- <img alt="YOUR-ALT-TEXT" src="![العفتان ص](https://github.com/Abdullah-Alaftan/Abdullah-Alaftan/assets/158807291/bc89476d-657b-4b15-be54-22668117d4a4)
+ <img alt="YOUR-ALT-TEXT" src="![my pic](https://github.com/Abdullah-Alaftan/Abdullah-Alaftan/assets/158807291/6410da19-42e6-4a08-b234-44b1d34d9e29)
+
 ">
 </picture>
 
